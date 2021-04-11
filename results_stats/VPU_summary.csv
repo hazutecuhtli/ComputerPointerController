@@ -1,0 +1,4 @@
+,Performance Metric,Seconds
+0,Loading Time, '25.699937105178833'
+1,Inference Time, '0.3098106384277344'
+2,Input-Output Time, '1.3051362037658691'
